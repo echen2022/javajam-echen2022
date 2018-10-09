@@ -1,0 +1,45 @@
+body {
+
+  background-image: url("../images/javabackground.gif");
+  color: #000000;
+}
+
+h1 {
+  background-color: #D2B48C;
+  color: #000000;
+  margin-bottom: 0px;
+}
+
+h2 {
+  background-image: url("images/marker.gif");
+  background-repeat: no-repeat;
+  padding-left: 30px;
+  background-color: #F5F5DC;
+  text-color: #
+}
+
+nav {
+  text-align: center;
+}
+footer {
+  background-color: #D2B48C;
+  color: #000000;
+  font-size: large;
+}
+
+ul {
+  list-style-image: url("../images/marker.gif");
+}
+
+#container {
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 850px;
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  background-color: #F5F5DC;
+  box-shadow: 5px 5px 5px #1e1e1e;
+}
